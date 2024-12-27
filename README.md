@@ -1,5 +1,4 @@
 Project: Automatic Number Plate Detection
-Overview
 
 Automatic Number Plate Detection (ANPD) is a computer vision project used in applications such as traffic monitoring, parking management, toll collection, and law enforcement. The goal is to detect and recognize a vehicle's number plate from an image or video input.
 
